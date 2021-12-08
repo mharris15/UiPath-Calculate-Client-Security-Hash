@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tCuV4MKrY0qpfuSF_aXU5g",
+  "Reference": "UmKh4KpfI0iNtWwEGkPhXA/tCuV4MKrY0qpfuSF_aXU5g",
+  "ParentRef": "UmKh4KpfI0iNtWwEGkPhXA/NxoqvIv0902sNj5nMB1gRw",
+  "Name": "HashInputBar",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-12-06T00:04:57.3211066Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-12-06T00:05:17.6866643Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

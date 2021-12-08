@@ -1,0 +1,16 @@
+﻿{
+  "Id": "CQioBtci_0SaTyBsycVu0w",
+  "Reference": "UmKh4KpfI0iNtWwEGkPhXA/CQioBtci_0SaTyBsycVu0w",
+  "ParentRef": "UmKh4KpfI0iNtWwEGkPhXA/w9TmtnZR-0-POZDcRuwpJw",
+  "Name": "EmailField",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-12-02T16:17:09.3400821Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-12-02T16:17:27.1740161Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

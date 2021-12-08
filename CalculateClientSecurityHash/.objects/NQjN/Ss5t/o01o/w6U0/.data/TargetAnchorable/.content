@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/home" ContentHash="DTZaSHFZvkqBO2t_gOoRWw" DesignTimeRectangle="1716, 117, 120, 75" ElementType="Text" FriendlyName="'Log Out'" FullSelectorArgument="&lt;webctrl aaname='Log Out' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Log Out' parentid='bs-example-navbar-collapse-1' tag='A' type='' check:text='Log Out' /&gt;" Guid="aa99e128-11ff-4b20-80b8-4ab6b3ac823a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0WQkI0ewrIkSmVtO1zEluGQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8d81e64e75ec54d3dc4b5ffc3ba6bf9a.png" xmlns="">05_io1ddhoU6yov9NhW7Q6w</imageRef>
+</TargetAnchorable>
